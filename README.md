@@ -1,3 +1,3 @@
-Ejemplo de uso del cloud ide [boxcode.io](http://boxcode.io)
+Ejemplo de uso del cloud ide [codebox.io](http://codebox.io)
 
 Contiene la resolución de un ejercicio básico en c++
